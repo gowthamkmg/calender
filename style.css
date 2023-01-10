@@ -1,0 +1,14 @@
+img{
+    height: 40px;
+    width: 40px;
+}
+table{
+
+    background-color: aqua;
+}
+th{
+    background-color: yellowgreen;
+}
+td{
+    background-color: bisque;
+}
